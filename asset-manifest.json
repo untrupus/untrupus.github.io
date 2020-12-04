@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/untrupus/morfer/static/css/main.cf3f9809.chunk.css",
+    "main.js": "/untrupus/morfer/static/js/main.41d4b3ab.chunk.js",
+    "main.js.map": "/untrupus/morfer/static/js/main.41d4b3ab.chunk.js.map",
+    "runtime-main.js": "/untrupus/morfer/static/js/runtime-main.be9bbb1c.js",
+    "runtime-main.js.map": "/untrupus/morfer/static/js/runtime-main.be9bbb1c.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/untrupus/morfer/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.b3376646.chunk.js": "/untrupus/morfer/static/js/2.b3376646.chunk.js",
+    "static/js/2.b3376646.chunk.js.map": "/untrupus/morfer/static/js/2.b3376646.chunk.js.map",
+    "static/js/3.ab470e4d.chunk.js": "/untrupus/morfer/static/js/3.ab470e4d.chunk.js",
+    "static/js/3.ab470e4d.chunk.js.map": "/untrupus/morfer/static/js/3.ab470e4d.chunk.js.map",
+    "index.html": "/untrupus/morfer/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/untrupus/morfer/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.cf3f9809.chunk.css.map": "/untrupus/morfer/static/css/main.cf3f9809.chunk.css.map",
+    "static/js/2.b3376646.chunk.js.LICENSE.txt": "/untrupus/morfer/static/js/2.b3376646.chunk.js.LICENSE.txt",
+    "static/media/Morfer_Logo.7981ff11.png": "/untrupus/morfer/static/media/Morfer_Logo.7981ff11.png",
+    "static/media/Omen.c8659c24.png": "/untrupus/morfer/static/media/Omen.c8659c24.png",
+    "static/media/album.0902d760.png": "/untrupus/morfer/static/media/album.0902d760.png",
+    "static/media/alfer.d64774e6.png": "/untrupus/morfer/static/media/alfer.d64774e6.png",
+    "static/media/constmac.c9d690a3.png": "/untrupus/morfer/static/media/constmac.c9d690a3.png",
+    "static/media/morf1.31def791.jpg": "/untrupus/morfer/static/media/morf1.31def791.jpg",
+    "static/media/morf2.7ffae9b7.jpg": "/untrupus/morfer/static/media/morf2.7ffae9b7.jpg",
+    "static/media/morf3.0a19cf7f.jpg": "/untrupus/morfer/static/media/morf3.0a19cf7f.jpg",
+    "static/media/morgod.54729043.png": "/untrupus/morfer/static/media/morgod.54729043.png",
+    "static/media/untrupus.648bff25.png": "/untrupus/morfer/static/media/untrupus.648bff25.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be9bbb1c.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.b3376646.chunk.js",
+    "static/css/main.cf3f9809.chunk.css",
+    "static/js/main.41d4b3ab.chunk.js"
+  ]
+}
